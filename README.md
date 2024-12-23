@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Võ Văn Tuấn<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">📚 I’m a software engineering student at Ho Chi Minh City University of Technology and Education</h3>
 
-<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" />
+<!-- <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif" /> -->
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
